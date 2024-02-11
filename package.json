@@ -1,0 +1,13 @@
+{
+  "name": "harmonyx",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start1": "tsc aeiou.ts && node aeiou.js",
+    "start2": "tsc permutation.ts && node permutation.js"
+  },
+  "author": "",
+  "license": "ISC"
+}
